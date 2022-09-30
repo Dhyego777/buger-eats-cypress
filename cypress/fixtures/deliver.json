@@ -1,0 +1,56 @@
+{
+    "signup": {
+        "nome": "Dhyego Herison",
+        "cpf": "51975453212",
+        "email": "dhyegoteste@gmail.com",
+        "whatsapp": "83988583344",
+
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "45",
+            "complemento": "AP 45",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "nome": "Rafaela Henrique",
+        "cpf": "519754532aa",
+        "email": "Rafaelateste@gmail.com",
+        "whatsapp": "83988582255",
+
+        "endereco": {
+            "cep": "58028860",
+            "rua": "Rua 18 de Dezembro",
+            "numero": "104",
+            "complemento": "AP 55",
+            "bairro": "Ipês",
+            "cidade_uf": "João Pessoa/PB"
+        },
+        "metodo_entrega": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "nome": "Thiago Silva",
+        "cpf": "51975453212",
+        "email": "Thiago.com.br",
+        "whatsapp": "83911225588",
+
+        "endereco": {
+            "cep": "58070340",
+            "rua": "Rua Abdias dos Santos Passos",
+            "numero": "13",
+            "complemento": "Ap100",
+            "bairro": "Varjão",
+            "cidade_uf": "João Pessoa/PB"
+        },
+        "metodo_entrega": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
